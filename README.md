@@ -56,7 +56,7 @@ Ensure you have the following installed:
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/connectavani/EC2_Instance_Dashboard.git
+git clone https://github.com/connectavani/Library-Management-System.git
 cd Library Management
 ```
 
